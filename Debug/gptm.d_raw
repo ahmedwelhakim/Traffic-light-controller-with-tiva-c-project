@@ -1,0 +1,18 @@
+gptm.obj: ../gptm.c
+gptm.obj: E:/ASU\\ Courses/03\\ Fall\\ 2020/CSE\\ 316\\ Microcontroller/Project/CCS\\ workspace/Traffic_Light/gptm.h
+gptm.obj: C:/ti/ccs1011/ccs/tools/compiler/ti-cgt-arm_20.2.1.LTS/include/stdbool.h
+gptm.obj: C:/ti/ccs1011/ccs/tools/compiler/ti-cgt-arm_20.2.1.LTS/include/_ti_config.h
+gptm.obj: C:/ti/ccs1011/ccs/tools/compiler/ti-cgt-arm_20.2.1.LTS/include/linkage.h
+gptm.obj: C:/ti/ccs1011/ccs/tools/compiler/ti-cgt-arm_20.2.1.LTS/include/stdint.h
+gptm.obj: C:/ti/ccs1011/ccs/tools/compiler/ti-cgt-arm_20.2.1.LTS/include/_stdint40.h
+gptm.obj: C:/ti/ccs1011/ccs/tools/compiler/ti-cgt-arm_20.2.1.LTS/include/sys/stdint.h
+gptm.obj: C:/ti/ccs1011/ccs/tools/compiler/ti-cgt-arm_20.2.1.LTS/include/sys/cdefs.h
+gptm.obj: C:/ti/ccs1011/ccs/tools/compiler/ti-cgt-arm_20.2.1.LTS/include/sys/_types.h
+gptm.obj: C:/ti/ccs1011/ccs/tools/compiler/ti-cgt-arm_20.2.1.LTS/include/machine/_types.h
+gptm.obj: C:/ti/ccs1011/ccs/tools/compiler/ti-cgt-arm_20.2.1.LTS/include/machine/_stdint.h
+gptm.obj: C:/ti/ccs1011/ccs/tools/compiler/ti-cgt-arm_20.2.1.LTS/include/sys/_stdint.h
+gptm.obj: C:/ti/TivaWare_C_Series-2.1.4.178/inc/hw_memmap.h
+gptm.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/sysctl.h
+gptm.obj: ..\tm4c123gh6pm.h
+gptm.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/timer.h
+gptm.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/interrupt.h

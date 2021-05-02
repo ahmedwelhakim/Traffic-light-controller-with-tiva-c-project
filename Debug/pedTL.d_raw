@@ -1,0 +1,25 @@
+pedTL.obj: ../pedTL.c
+pedTL.obj: ..\pedTL.h
+pedTL.obj: C:/ti/ccs1011/ccs/tools/compiler/ti-cgt-arm_20.2.1.LTS/include/stdbool.h
+pedTL.obj: C:/ti/ccs1011/ccs/tools/compiler/ti-cgt-arm_20.2.1.LTS/include/_ti_config.h
+pedTL.obj: C:/ti/ccs1011/ccs/tools/compiler/ti-cgt-arm_20.2.1.LTS/include/linkage.h
+pedTL.obj: E:/ASU\\ Courses/03\\ Fall\\ 2020/CSE\\ 316\\ Microcontroller/Project/CCS\\ workspace/Traffic_Light/fsm.h
+pedTL.obj: C:/ti/ccs1011/ccs/tools/compiler/ti-cgt-arm_20.2.1.LTS/include/stdint.h
+pedTL.obj: C:/ti/ccs1011/ccs/tools/compiler/ti-cgt-arm_20.2.1.LTS/include/_stdint40.h
+pedTL.obj: C:/ti/ccs1011/ccs/tools/compiler/ti-cgt-arm_20.2.1.LTS/include/sys/stdint.h
+pedTL.obj: C:/ti/ccs1011/ccs/tools/compiler/ti-cgt-arm_20.2.1.LTS/include/sys/cdefs.h
+pedTL.obj: C:/ti/ccs1011/ccs/tools/compiler/ti-cgt-arm_20.2.1.LTS/include/sys/_types.h
+pedTL.obj: C:/ti/ccs1011/ccs/tools/compiler/ti-cgt-arm_20.2.1.LTS/include/machine/_types.h
+pedTL.obj: C:/ti/ccs1011/ccs/tools/compiler/ti-cgt-arm_20.2.1.LTS/include/machine/_stdint.h
+pedTL.obj: C:/ti/ccs1011/ccs/tools/compiler/ti-cgt-arm_20.2.1.LTS/include/sys/_stdint.h
+pedTL.obj: E:\ASU\\ Courses\03\\ Fall\\ 2020\CSE\\ 316\\ Microcontroller\Project\CCS\\ workspace\Traffic_Light\led.h
+pedTL.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gpio.h
+pedTL.obj: E:/ASU\\ Courses/03\\ Fall\\ 2020/CSE\\ 316\\ Microcontroller/Project/CCS\\ workspace/Traffic_Light/gptm.h
+pedTL.obj: C:/ti/TivaWare_C_Series-2.1.4.178/inc/hw_memmap.h
+pedTL.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/sysctl.h
+pedTL.obj: ..\tm4c123gh6pm.h
+pedTL.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/timer.h
+pedTL.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/interrupt.h
+pedTL.obj: ..\led.h
+pedTL.obj: ..\btn.h
+pedTL.obj: ..\uart.h

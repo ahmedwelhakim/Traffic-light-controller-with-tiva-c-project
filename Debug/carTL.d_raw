@@ -1,0 +1,24 @@
+carTL.obj: ../carTL.c
+carTL.obj: E:/ASU\\ Courses/03\\ Fall\\ 2020/CSE\\ 316\\ Microcontroller/Project/CCS\\ workspace/Traffic_Light/carTL.h
+carTL.obj: C:/ti/ccs1011/ccs/tools/compiler/ti-cgt-arm_20.2.1.LTS/include/stdbool.h
+carTL.obj: C:/ti/ccs1011/ccs/tools/compiler/ti-cgt-arm_20.2.1.LTS/include/_ti_config.h
+carTL.obj: C:/ti/ccs1011/ccs/tools/compiler/ti-cgt-arm_20.2.1.LTS/include/linkage.h
+carTL.obj: E:/ASU\\ Courses/03\\ Fall\\ 2020/CSE\\ 316\\ Microcontroller/Project/CCS\\ workspace/Traffic_Light/fsm.h
+carTL.obj: C:/ti/ccs1011/ccs/tools/compiler/ti-cgt-arm_20.2.1.LTS/include/stdint.h
+carTL.obj: C:/ti/ccs1011/ccs/tools/compiler/ti-cgt-arm_20.2.1.LTS/include/_stdint40.h
+carTL.obj: C:/ti/ccs1011/ccs/tools/compiler/ti-cgt-arm_20.2.1.LTS/include/sys/stdint.h
+carTL.obj: C:/ti/ccs1011/ccs/tools/compiler/ti-cgt-arm_20.2.1.LTS/include/sys/cdefs.h
+carTL.obj: C:/ti/ccs1011/ccs/tools/compiler/ti-cgt-arm_20.2.1.LTS/include/sys/_types.h
+carTL.obj: C:/ti/ccs1011/ccs/tools/compiler/ti-cgt-arm_20.2.1.LTS/include/machine/_types.h
+carTL.obj: C:/ti/ccs1011/ccs/tools/compiler/ti-cgt-arm_20.2.1.LTS/include/machine/_stdint.h
+carTL.obj: C:/ti/ccs1011/ccs/tools/compiler/ti-cgt-arm_20.2.1.LTS/include/sys/_stdint.h
+carTL.obj: E:\ASU\\ Courses\03\\ Fall\\ 2020\CSE\\ 316\\ Microcontroller\Project\CCS\\ workspace\Traffic_Light\led.h
+carTL.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gpio.h
+carTL.obj: E:/ASU\\ Courses/03\\ Fall\\ 2020/CSE\\ 316\\ Microcontroller/Project/CCS\\ workspace/Traffic_Light/gptm.h
+carTL.obj: ..\uart.h
+carTL.obj: C:/ti/TivaWare_C_Series-2.1.4.178/inc/hw_memmap.h
+carTL.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/sysctl.h
+carTL.obj: ..\tm4c123gh6pm.h
+carTL.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/timer.h
+carTL.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/interrupt.h
+carTL.obj: ..\led.h
